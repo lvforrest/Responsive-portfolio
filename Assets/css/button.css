@@ -1,0 +1,12 @@
+a:active{
+background-color: yellow;
+}
+a:focus{
+    background-color: aqua;
+}
+a:hover{
+    background-color: blueviolet;
+}
+ a:default{
+     background-color: green;
+ }
